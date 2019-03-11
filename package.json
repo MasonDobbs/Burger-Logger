@@ -1,0 +1,24 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "This is an application to help you track the burgers you've ate or want to eat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasonDobbs/Burger-Logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasonDobbs/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/MasonDobbs/Burger-Logger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  }
+}
